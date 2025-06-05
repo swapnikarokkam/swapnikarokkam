@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swapnikarokkam
+- 👋 Hi, I’m @swapnikanimmala
 - 👀 I’m interested in ...Development
 - 🌱 I’m currently learning ...React Developer
 - 💞️ I’m looking to collaborate on ...
